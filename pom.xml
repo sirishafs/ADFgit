@@ -21,10 +21,10 @@
         <version>12.1.2-0-0</version>
         <configuration>
           <ojmake>
-            C:\oracle12\jdeveloper\jdev\bin\ojmake.exe
+            C:\Oracle\Middleware1212\jdeveloper\jdev\bin\ojmake.exe
           </ojmake>
           <files>
-            C:\JDeveloper\mywork\git\git.jws
+            ${basedir}\ViewController\ViewController.jpr
           </files>
           <usemaven>
             true
